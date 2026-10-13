@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.exe.config
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.exe
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\bin\Debug\XepLoaiHocTap.pdb
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.exe
+D:\BT Classroom Lab\Lab01\Bai03_XepLoaiHocTap\XepLoaiHocTap\obj\Debug\XepLoaiHocTap.pdb

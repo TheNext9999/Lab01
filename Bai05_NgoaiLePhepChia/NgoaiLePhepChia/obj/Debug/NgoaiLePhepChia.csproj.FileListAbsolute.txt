@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\bin\Debug\NgoaiLePhepChia.exe.config
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\bin\Debug\NgoaiLePhepChia.exe
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\bin\Debug\NgoaiLePhepChia.pdb
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\obj\Debug\NgoaiLePhepChia.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\obj\Debug\NgoaiLePhepChia.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\obj\Debug\NgoaiLePhepChia.exe
+D:\BT Classroom Lab\Lab01\Bai05_NgoaiLePhepChia\NgoaiLePhepChia\obj\Debug\NgoaiLePhepChia.pdb

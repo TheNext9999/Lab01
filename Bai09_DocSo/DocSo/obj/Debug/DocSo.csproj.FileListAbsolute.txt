@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\bin\Debug\DocSo.exe.config
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\bin\Debug\DocSo.exe
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\bin\Debug\DocSo.pdb
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\obj\Debug\DocSo.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\obj\Debug\DocSo.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\obj\Debug\DocSo.exe
+D:\BT Classroom Lab\Lab01\Bai09_DocSo\DocSo\obj\Debug\DocSo.pdb

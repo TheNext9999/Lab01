@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\obj\Debug\HinhTru.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\obj\Debug\HinhTru.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\bin\Debug\HinhTru.exe.config
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\bin\Debug\HinhTru.exe
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\bin\Debug\HinhTru.pdb
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\obj\Debug\HinhTru.exe
+D:\BT Classroom Lab\Lab01\Bai02_HinhTru\HinhTru\obj\Debug\HinhTru.pdb

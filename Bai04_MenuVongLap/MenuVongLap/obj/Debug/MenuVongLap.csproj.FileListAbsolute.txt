@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\bin\Debug\MenuVongLap.exe.config
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\bin\Debug\MenuVongLap.exe
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\bin\Debug\MenuVongLap.pdb
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\obj\Debug\MenuVongLap.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\obj\Debug\MenuVongLap.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\obj\Debug\MenuVongLap.exe
+D:\BT Classroom Lab\Lab01\Bai04_MenuVongLap\MenuVongLap\obj\Debug\MenuVongLap.pdb

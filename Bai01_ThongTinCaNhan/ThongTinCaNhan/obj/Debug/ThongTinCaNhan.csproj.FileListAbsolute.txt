@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\bin\Debug\ThongTinCaNhan.exe.config
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\bin\Debug\ThongTinCaNhan.exe
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\bin\Debug\ThongTinCaNhan.pdb
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\obj\Debug\ThongTinCaNhan.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\obj\Debug\ThongTinCaNhan.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\obj\Debug\ThongTinCaNhan.exe
+D:\BT Classroom Lab\Lab01\Bai01_ThongTinCaNhan\ThongTinCaNhan\obj\Debug\ThongTinCaNhan.pdb

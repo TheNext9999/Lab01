@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe.config
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.pdb
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.exe
+D:\BT Classroom Lab\Lab01\Bai08_KiemTraSoNguyenTo\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.pdb

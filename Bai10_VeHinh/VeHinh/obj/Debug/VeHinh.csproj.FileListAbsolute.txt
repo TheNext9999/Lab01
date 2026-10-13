@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\bin\Debug\VeHinh.exe.config
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\bin\Debug\VeHinh.exe
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\bin\Debug\VeHinh.pdb
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\obj\Debug\VeHinh.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\obj\Debug\VeHinh.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\obj\Debug\VeHinh.exe
+D:\BT Classroom Lab\Lab01\Bai10_VeHinh\VeHinh\obj\Debug\VeHinh.pdb

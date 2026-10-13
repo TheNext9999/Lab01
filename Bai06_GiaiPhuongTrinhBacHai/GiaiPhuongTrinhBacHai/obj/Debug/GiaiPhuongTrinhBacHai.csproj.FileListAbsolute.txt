@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\bin\Debug\GiaiPhuongTrinhBacHai.exe.config
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\bin\Debug\GiaiPhuongTrinhBacHai.exe
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\bin\Debug\GiaiPhuongTrinhBacHai.pdb
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\obj\Debug\GiaiPhuongTrinhBacHai.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\obj\Debug\GiaiPhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\obj\Debug\GiaiPhuongTrinhBacHai.exe
+D:\BT Classroom Lab\Lab01\Bai06_GiaiPhuongTrinhBacHai\GiaiPhuongTrinhBacHai\obj\Debug\GiaiPhuongTrinhBacHai.pdb
