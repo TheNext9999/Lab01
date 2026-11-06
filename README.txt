@@ -92,4 +92,4 @@ IV. HƯỚNG DẪN CÁCH CÀI ĐẶT VÀ CHẠY CHƯƠNG TRÌNH
 3. Ghi chú về hiển thị tiếng Việt:
    - Tất cả các file mã nguồn đều đã cấu hình Console.OutputEncoding = Encoding.UTF8 
      để đảm bảo hiển thị đúng font tiếng Việt trên cửa sổ Command Prompt/Console.
-================================================================================
+=================================================================================
